@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>ChainHipster Blog</title>
+        <link>https://chainhipster.github.io/blog</link>
+        <description>ChainHipster Blog</description>
+        <lastBuildDate>Mon, 01 Mar 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Introducing ChainHipster: the Rapid Blockchain Application Development Platform]]></title>
+            <link>https://chainhipster.github.io/blog/introducing-chainhipster</link>
+            <guid>introducing-chainhipster</guid>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Today I am releasing the first version a new open source project which I have named ChainHipster, a JHipster blueprint to generate blockchain applications.]]></description>
+        </item>
+    </channel>
+</rss>

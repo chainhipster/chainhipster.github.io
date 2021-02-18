@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{77:function(i){i.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Introducing ChainHipster: the Rapid Blockchain Application Development Platform","permalink":"/blog/introducing-chainhipster"}]}')}}]);
